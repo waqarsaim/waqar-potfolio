@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4a99ac40.chunk.css",
-    "main.js": "/static/js/main.9def2135.chunk.js",
-    "main.js.map": "/static/js/main.9def2135.chunk.js.map",
+    "main.js": "/static/js/main.7d912961.chunk.js",
+    "main.js.map": "/static/js/main.7d912961.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3e02c224.js",
     "runtime-main.js.map": "/static/js/runtime-main.3e02c224.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -121,6 +121,7 @@
     "static/media/react.c3a0b34a.svg": "/static/media/react.c3a0b34a.svg",
     "static/media/redTheme-boy.74f6dfaa.svg": "/static/media/redTheme-boy.74f6dfaa.svg",
     "static/media/redTheme-girl.e2b9dd83.svg": "/static/media/redTheme-girl.e2b9dd83.svg",
+    "static/media/redux.0e4fb1c8.svg": "/static/media/redux.0e4fb1c8.svg",
     "static/media/ruby.775cc228.svg": "/static/media/ruby.775cc228.svg",
     "static/media/selenium.f0d42a91.svg": "/static/media/selenium.f0d42a91.svg",
     "static/media/seven.d5cabb8e.svg": "/static/media/seven.d5cabb8e.svg",
@@ -139,7 +140,7 @@
     "static/media/vitejs.11f3d899.svg": "/static/media/vitejs.11f3d899.svg",
     "static/media/vue.5f5d1689.svg": "/static/media/vue.5f5d1689.svg",
     "static/media/vuetifyjs.3848fcff.svg": "/static/media/vuetifyjs.3848fcff.svg",
-    "static/media/waqarr.9df95444.png": "/static/media/waqarr.9df95444.png",
+    "static/media/waqarr.e6723b7b.png": "/static/media/waqarr.e6723b7b.png",
     "static/media/webix.dc98a7d7.svg": "/static/media/webix.dc98a7d7.svg",
     "static/media/wolframalpha.e6299b2d.svg": "/static/media/wolframalpha.e6299b2d.svg",
     "static/media/wordpress.f39aa81e.svg": "/static/media/wordpress.f39aa81e.svg",
@@ -151,6 +152,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.ef79ed29.chunk.js",
     "static/css/main.4a99ac40.chunk.css",
-    "static/js/main.9def2135.chunk.js"
+    "static/js/main.7d912961.chunk.js"
   ]
 }

@@ -1,15 +1,13 @@
- export const skillsData = [
-    'HTML',
-    'Bootstrap',
-    'Redux',
-    'Figma',
-    'Javascript',
-    'CSS',
-    'React',
-    'Materialui',
+export const skillsData = [
+  'HTML',
+  'Bootstrap',
+  'Redux',
+  'Figma',
+  'Javascript',
+  'CSS',
+  'React',
+  'Materialui',
 ]
-
-
 
 // AVAILABLE SKILLS
 
